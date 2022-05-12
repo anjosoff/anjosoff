@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosoff&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center" margin-bottom="10" ><br>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js"   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,14 +22,14 @@
 </div>
   
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center" margin-bottom="10" ><br>
   <img align="center" alt="bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="node"   src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
   
-  <div style="display: inline_block" align="center"><br>
+  <div style="display: inline_block" align="center" margin-bottom="10" ><br>
     <h3 aling="left">IDE's</h3>
     <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
     <a href="https://replit.com/@anjosoff" target="_blank"><img align="center" alt="replit"  src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
@@ -37,7 +37,7 @@
   
    </div>
   
-  <div style="display: inline_block" align="center"><br>
+  <div style="display: inline_block" align="center" margin-bottom="10" ><br>
     <h3 aling="left">OS</h3>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
