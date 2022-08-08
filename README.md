@@ -1,10 +1,13 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjosoff&label=Profile%20views&color=0e75b6&style=flat" alt="anjosoff" /> </p>
 
 
- <div align="center">
-    <img  height="30%" width="40% align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
- </div>
- 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/anjosoff/anjosoff/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/anjosoff/anjosoff/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+
 ##
 
 <div align="center">
