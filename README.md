@@ -2,11 +2,10 @@
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/anjosoff/anjosoff/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/anjosoff/anjosoff/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
+ <div align="center">
+    <img  height="30%" width="40% align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+ </div>
 
 ##
 
@@ -15,6 +14,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosoff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosoff&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/anjosoff/anjosoff/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/anjosoff/anjosoff/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 
 <hr>
 <div align="center">
